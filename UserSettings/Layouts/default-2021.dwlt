@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1366
     height: 685
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 31
+  controlID: 107
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -72,7 +72,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 32
+  controlID: 108
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 19
+  controlID: 21
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,7 +273,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 20
+  controlID: 22
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -446,7 +446,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\User\TheDarkEvilofWendy
+  m_LastProjectPath: C:\Users\User\TheDarkEvilofWendy\DesarrolloJuego2D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -609,8 +609,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f25f0000
-      m_LastClickedID: 24562
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -884,7 +884,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -14.475473, y: -1.6270391, z: -0.15563588}
     speed: 2
-    m_Value: {x: -13.479078, y: -1.7470866, z: -0.14752065}
+    m_Value: {x: -14.475473, y: -1.6270391, z: -0.15563588}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -937,7 +937,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 18.84533
     speed: 2
-    m_Value: 18.033808
+    m_Value: 18.84533
   m_Ortho:
     m_Target: 1
     speed: 2
